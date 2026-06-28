@@ -26,32 +26,7 @@ AI helps me get knowledge
 
 ## 表格示例4
 
-<table>
-  <tr>
-    <td><b>步兵</b></td>
-    <td>民兵</td>
-    <td>剑士</td>
-    <td>长剑士</td>
-    <td>罗马军</td>
-  </tr>
-  <tr>
-    <td><b>马上部队</b></td>
-    <td>骑士</td>
-    <td>重装骑士</td>
-    <td>游侠</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><b>攻城武器</b></td>
-    <td>轻型投石车</td>
-    <td>中型投石车</td>
-    <td>重型投石车</td>
-    <td></td>
-  </tr>
-
-  
-## 表格示例5
-  <table style="text-align: center;">
+<table style="text-align: center;">
   <tr>
     <td><b>步兵</b></td>
     <td>民兵</td>
@@ -74,6 +49,7 @@ AI helps me get knowledge
     <td></td>
   </tr>
 </table>
+
 
 </table>
 
